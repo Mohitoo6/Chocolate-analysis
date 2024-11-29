@@ -1,58 +1,56 @@
-### Project Summary: Chocolate Sales Analysis Dashboard
+### Project Summary: Coca-Cola Sales Dashboard Analysis
 
 **Objective:**  
-The goal of this project was to analyze and visualize chocolate sales data to identify trends, assess performance across geographies and products, and provide actionable insights for improving profitability and sales strategies.
+To analyze Coca-Cola’s sales and operational data, focusing on operating profit, sales trends, and product performance across regions. The dashboard aims to provide insights into sales patterns, profitability, and forecast future sales and unit trends.
 
 ---
 
 **Approach:**  
 1. **Data Preparation:**  
-   - Cleaned and structured the dataset to focus on key performance indicators (KPIs) such as total sales, profit, cost, and shipment details.  
-   - Grouped data by product types, salespersons, and geographical regions for detailed insights.
+   - Cleaned and structured the dataset to focus on sales, units sold, operating profit, and operating margin metrics.  
+   - Grouped data by beverage brands and U.S. states for a detailed analysis.
 
 2. **Dashboard Design:**  
-   - Designed an interactive Power BI dashboard to showcase KPIs like total sales ($17M), total profit ($10M), profit percentage (60%), and shipment metrics.  
-   - Incorporated visuals for monthly profit trends, product-based sales analysis, and geographical performance comparisons.
+   - Designed an interactive Power BI dashboard to visualize key metrics such as total sales, operating profit, units sold, and operating margin.  
+   - Incorporated forecasting visuals for sales and units over the next 15 days.
 
 3. **Influencer Analysis:**  
-   - Analyzed key drivers of sales using Power BI’s Key Influencers visual, identifying "99% Dark & Pure" as a significant factor for sales increases.  
+   - Used Power BI’s Key Influencers visual to identify factors driving operating profit, with Coca-Cola and Dasani Water brands being top influencers.  
 
-4. **Performance Analysis:**  
-   - Assessed salesperson performance, highlighting top contributors with profit percentages up to 69%.  
-   - Evaluated profitability across geographical regions, with New Zealand and Australia leading in profit percentages (62.39% and 61.57%, respectively).
+4. **Trend Analysis:**  
+   - Visualized sales and unit trends over time, highlighting seasonal patterns and peak sales periods.
 
 ---
 
 **Key Insights:**  
-- **Product Performance:**  
-  "99% Dark & Pure" emerged as the top-performing product, significantly influencing sales growth. Other high-selling products include "Organic Choco" and "Fruit & Nut Bars."
+- **Brand Performance:**  
+  - Coca-Cola generated the highest total sales ($19.23M) and operating profit ($7.67M), followed by Dasani Water ($16.39M) and Diet Coke ($13.91M).  
+  - Operating margins ranged between 35% and 39% across brands, with Coca-Cola having the highest margin (39%).  
 
-- **Geographical Analysis:**  
-  - New Zealand ($58.75M) and Canada ($57.25M) reported the highest total sales, while New Zealand achieved the highest profit percentage.  
-  - The UK had the lowest profit percentage at 57.25%.
+- **Regional Analysis:**  
+  - Sales trends were analyzed across U.S. states, identifying key regions contributing to higher sales.  
 
-- **Sales Trends:**  
-  Monthly profits showed consistent growth, peaking at $1.57M in July 2023, followed by fluctuations due to seasonality.
+- **Sales Forecast:**  
+  - Sales and units sold are expected to follow consistent patterns, with slight fluctuations predicted over the next 15 days.  
 
-- **Salesperson Contribution:**  
-  - Brien Boise achieved the highest profit percentage (69.11%), followed by Marney O'Breen (67.42%).  
-  - Opportunities were identified for lower-performing salespersons to enhance their strategies.
+- **Influencer Analysis:**  
+  - Coca-Cola brand significantly influences operating profit, with an average increase of 501.3 units in sales, compared to other brands like Dasani Water (214.9 units).
 
 ---
 
 **Tools Used:**  
 - **Data Visualization:** Power BI Desktop  
-- **Metrics Analyzed:** Sales, profit, cost, shipment, and profit percentages.  
-- **Advanced Features:** Key Influencers visual for trend analysis.
+- **Metrics Analyzed:** Sales, operating profit, operating margin, units sold, and forecast trends.  
+- **Advanced Features:** Key Influencers and sales forecasting.
 
 ---
 
 **Recommendations:**  
-1. **Product Promotion:** Focus marketing efforts on high-performing products like "99% Dark & Pure" and "Organic Choco" to boost sales.  
-2. **Region-Specific Strategies:** Tailor sales strategies for low-performing regions, such as the UK, to enhance profitability.  
-3. **Salesforce Optimization:** Provide targeted training and resources to salespersons with lower profit percentages.  
-4. **Seasonal Preparation:** Prepare for seasonal demand spikes, particularly in months with historically high profits (e.g., July).
+1. **Focus on Coca-Cola and Dasani Water:** Increase marketing and distribution efforts for top-performing brands to boost operating profit.  
+2. **Optimize Regional Strategies:** Tailor sales strategies for high-performing regions to maximize sales and operating margins.  
+3. **Leverage Forecasting Insights:** Use predicted sales and unit trends to align inventory and production planning effectively.  
+4. **Expand Margins:** Identify cost-reduction opportunities for brands with lower operating margins, like Sprite and Diet Coke.  
 
 ---
 
-This project demonstrates how Power BI can effectively visualize and analyze sales data, providing actionable insights to optimize product offerings, regional strategies, and overall business performance.
+This project highlights the use of Power BI for analyzing sales and operational data, enabling Coca-Cola to enhance decision-making through data-driven insights into profitability and sales trends.
